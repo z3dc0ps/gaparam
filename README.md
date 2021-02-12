@@ -11,5 +11,5 @@ $ go get github.com/z3dc0ps/gaparam
 
 ## Usage 
 ```
-$ gaparam example.com
+$ gaparam example.com | grep "="
 ```
